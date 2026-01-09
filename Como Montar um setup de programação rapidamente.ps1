@@ -10,4 +10,4 @@ choco install nodejs --version 22.8.0 /y
 # choco install wsl2 /y
 # choco install wsl-debiangnulinux /y
 # choco install obs-studio /y
-#
+# wsl --install -d Debian
